@@ -1,4 +1,4 @@
-# Finite-element-method-of-partial-differential-equation
+# Finite-difference-method-of-partial-differential-equation
 # 数值偏微分方程求解代码库
 
 ## 简介
